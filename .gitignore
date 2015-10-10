@@ -1,0 +1,7 @@
+Hello.py
+db.sqlite3
+*.pyc
+__pycache__
+myvenv
+/static
+.DS_Store
